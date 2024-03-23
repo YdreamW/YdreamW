@@ -2,13 +2,9 @@
 
 I'm Mengyu Wu, a person who likes programming.
 
-- 🌱 I’m currently studying computer science and technology at Zhejiang University.
-- 🔭 I have nearly two years of experience in front-end development of React and have participated in several projects.
-
-## Blog
-My personal blog records some personal thoughts and personal growth.
-
-https://ydreamw.github.io/
+- 🌱 I graduated from Zhejiang University majoring in computer science and technology. I have nearly 4 years of full-stack experience, mainly specializing in React and Node.js.
+- 🔭 I'm currently working at Ant Group AFX
+- 😄 I'm one of the maintainers of [Umi.js](https://github.com/umijs/umi?tab=readme-ov-file#maintainers)
 
 <!--
 **YdreamW/YdreamW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,22 +31,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YdreamW&hide=css,html,less)
 
-
-## Personal project
-
-### Wechat applet:  Kefou
-
-Video demo https://www.bilibili.com/video/BV1dQ4y1h78c
-
-Kefou is a platform product with college curriculum and teacher evaluation system as the core, covering good class recommendation and academic exchange. At present, it is widely used by Zhejiang university students.
-
-I participated in the development and maintenance of the project
-
-### IoT-Manager  
-
-https://github.com/YdreamW/IoT-frontend
-
-It is required to use the given IOT terminal to build the management system of IOT terminal. The system shall provide simple terminal configuration and visual display of terminal information.
 
 
 ...
